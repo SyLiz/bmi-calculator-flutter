@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import 'package:bmi_calculator/screens/constants.dart';
 
 class GenderIcon extends StatelessWidget {
   GenderIcon(this.genderText, this.genderIcon);
